@@ -1,0 +1,36 @@
+@model List<Consulta>
+
+
+<body style="background-color: rgb(133, 184, 181)">
+<br>
+<p id="pMensagem">@ViewBag.Mensagem</p>
+<a class="text-body" href="/Home/ConsultaClinica" style="text-decoration:none">Voltar</a>
+<br>
+<table class="content-table"> 
+<thead>
+<tr>
+    <th>Nome do Cliente</th>
+    <th>Observações</th>
+    <th>Médico Veterinário</th>
+    <th>Valor</th>
+    <th>Data</th>
+</tr>
+</thead>
+<tbody>
+    @foreach (Consulta item in Model)
+    {
+     <tr class="active-row">
+        <td>@item.clienteConsulta</td>
+        <td>@item.detalhesConsulta</td>
+        <td>@item.medicoConsulta</td>
+        <td>@item.precoConsulta</td>
+        <td>@item.dtConsulta</td>
+        <td><a href="/Consultorio/EditarConsulta?idConsulta=@item.idConsulta" style="text-decoration:none"> Editar </a></td>
+        <td><a href="/Consultorio/DetalhesConsulta?idConsulta=@item.idConsulta" style="text-decoration:none"> Detalhes </a></td>     
+        <td><a href="ExcluirConsulta?idConsulta=@item.idConsulta" style="text-decoration:none"> Excluir </a></td>
+        
+    </tr> 
+    }
+</tbody>
+</table>
+</body>

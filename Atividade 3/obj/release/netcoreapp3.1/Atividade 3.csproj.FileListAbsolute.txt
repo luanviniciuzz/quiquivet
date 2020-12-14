@@ -1,0 +1,53 @@
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\appsettings.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.exe
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.deps.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.runtimeconfig.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.Views.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\bin\release\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.RazorAssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.TagHelpers.input.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.TagHelpers.output.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.RazorCoreGenerate.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\CadastroCliente.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\ConsultaMarcada.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\DetalhesCliente.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\DetalhesConsulta.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\EditarCliente.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\EditarConsulta.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\ListaCliente.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Consultorio\MarcarConsulta.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\BancoImagens.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\CadastroFuncionario.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\CEstoque.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\ConsultaClinica.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\Internamento.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\TPrecos.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Home\Vendas.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.RazorTargetAssemblyInfo.cs
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.Views.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.csproj.CopyComplete
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\staticwebassets\Atividade 3.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.dll
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.pdb
+C:\Users\Samsung\Desktop\SENAC\Tec Info WEB\Projeto Integrador\Modulo A\Atividade 3\obj\release\netcoreapp3.1\Atividade 3.genruntimeconfig.cache

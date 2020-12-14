@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJE5thvefe78cOeuqdAAjdGjI79WifURoielfSQcJOFd02FsXK8Ze2tFDfXWsl7a1HHicFGinKkaQcYo8yn7vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\Desktop\\SENAC\\Tec Info WEB\\Projeto Integrador\\Modulo A\\UC08 -Pi-M2-LuanVinícius\\Atividade 3\\Atividade 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\mysqlconnector\\1.0.0\\mysqlconnector.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+@model Consulta
+@{
+    ViewData["Title"] = "Editar Consulta";
+}
+<h2>Editar Consulta</h2>
+<p id="pMensagem">@ViewBag.Mensagem</p>
+<form asp-action="EditarConsulta" method="POST">
+    <input type="hidden" asp-for="idConsulta"/>
+    <p>
+        <label asp-for="clienteConsulta">Nome do Cliente:</label>
+        <input asp-for="clienteConsulta" />
+    </p>
+    <p>
+        <label asp-for="detalhesConsulta">Observações:</label>
+        <input asp-for="detalhesConsulta" />
+    </p>
+    <p>
+        <label asp-for="medicoConsulta">Médico Veterinário:</label>
+        <input asp-for="medicoConsulta" />
+    </p>
+    <p>
+        <label asp-for="precoConsulta">Valor:</label>
+        <input asp-for="precoConsulta" />
+    </p>
+    <p>
+        <label asp-for="dtConsulta">Data:</label>
+        <input asp-for="dtConsulta" />
+    </p>
+    <p>
+        <input type="submit" value="Editar" />
+    </p>
+</form>
+<br>
+<br>
+<br>
+<a class="text-body" href="/Home/ConsultaClinica" style="text-decoration:none">Voltar</a>

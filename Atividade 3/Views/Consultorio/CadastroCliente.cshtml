@@ -1,0 +1,56 @@
+@model Cliente
+@{
+    ViewData["Title"] = "Registro";
+}
+<body style="background-color: rgb(133, 184, 181)">
+<h2>Registrar Cliente</h2>
+<p id="pMensagem">@ViewBag.Mensagem</p>
+<div class="container">
+    <div class="col-sm-8">
+    <form asp-action="CadastroCliente" method="POST">
+    <div class="form-group">
+     <label asp-for="nomeCliente" for="inputName" class="col-sm-2 col-form-label">Nome: </label>
+    <div class="col-sm-10">
+     <input asp-for="nomeCliente" class="form-control" id="inputName">
+    </div>
+    </div>
+    <div class="form-group">
+     <label asp-for="dtNascimentoCliente" for="inputDate" class="col-sm-2 col-form-label">Nascimento:</label>
+    <div class="col-sm-10">
+     <input asp-for="dtNascimentoCliente" class="form-control" id="inputDate">
+    </div>
+    </div>    
+    <div class="form-group">
+     <label asp-for="rgCliente" for="inputRG" class="col-sm-2 col-form-label">RG:</label>
+    <div class="col-sm-10">
+     <input asp-for="rgCliente" class="form-control" id="inputRG">
+    </div>
+    </div>    
+    <div class="form-group">
+     <label asp-for="cpfCliente" for="inputCPF" class="col-sm-2 col-form-label">CPF:</label>
+    <div class="col-sm-10">
+     <input asp-for="cpfCliente" class="form-control" id="inputCPF">
+    </div>
+    </div>
+    <div class="form-group">
+     <label asp-for="telefoneCliente" for="inputTel" class="col-sm-2 col-form-label">Telefone:</label>
+    <div class="col-sm-10">
+     <input asp-for="telefoneCliente" class="form-control" id="inputTel">
+    </div>
+    </div>
+    <div class="form-group">
+     <label asp-for="emailCliente" for="inputEmail" class="col-sm-2 col-form-label">Email:</label>
+    <div class="col-sm-10">
+     <input asp-for="emailCliente" class="form-control" id="inputEmail" placeholder="name@example.com">
+    </div>
+    </div>
+    <p>
+        <input type="submit" value="Registrar" />
+    </p>
+</form>
+    </div>
+    <a class="text-body" href="/Home/ConsultaClinica" style="text-decoration:none">Voltar</a>
+</div>
+<br>
+
+</body>
